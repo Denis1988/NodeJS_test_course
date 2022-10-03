@@ -1,0 +1,14 @@
+{
+  "name": "simple-server-to-talk-to-arduino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Denis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
